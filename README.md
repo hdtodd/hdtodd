@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdtodd, or David Todd to humans.
 - 👴🏻 I'm a retired former university CIO and chemistry faculty member.
 - 📡 I’m interested in Mac OS X, Raspberry Pi, Arduino, Linux, 433MHz remote sensors, LoRaWAN, photography.
-- 🧪 I'm a Theoretical Chemist by training and continue to be interested in molecular orbital calculations ⚛️ and still tinker with old research ideas👴🏻.
+- 🧪 I'm a Theoretical Chemist by training and continue to be interested in molecular orbital calculations ⚛️ and still tinker with old research ideas.
 - 🖥 I program in C, some shell work, and some rusty FORTRAN.  I've tried Swift for Apple IOS applications.
 - <rusty emoji here> I’m thinking about learning RUST for Pi systems work.
 - 👥 I’d be interested in collaborating on 433 MHz remote sensor data aggregation systems.
